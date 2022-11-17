@@ -1,1 +1,3 @@
-<?php echo "text" ?>
+<?php
+echo "<body>text<body>" 
+?>

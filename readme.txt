@@ -1,2 +1,3 @@
 open file
-write fileline from first branch
+write file
+line from first branch!

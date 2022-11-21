@@ -3,4 +3,3 @@ write file
 line from first branch!
 line 1
 line 2
-line 3

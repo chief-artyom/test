@@ -1,3 +1,7 @@
 <?php
-echo "<html><body>text<body></html>" 
+echo "<html>
+<body>
+<p>text</p>
+<body>
+</html>" 
 ?>
